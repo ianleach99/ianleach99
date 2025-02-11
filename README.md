@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ianleach99
 - 👀 I’m interested in Computer Science and Software Engineering 
-- 🌱 I’m currently learning in College & in my free time.
+- 🌱 I’m currently learning at work & in my free time.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me ... Ian.leach99@gmail.com
 
